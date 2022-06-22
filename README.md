@@ -1,5 +1,5 @@
 ### Tag Input
 
-    ## React /  Javascript
+    React /  Javascript
 
 ![img](./example.png)
